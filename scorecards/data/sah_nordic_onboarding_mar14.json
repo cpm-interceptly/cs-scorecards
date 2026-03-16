@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scorecard_id": "sah_nordic_onboarding_mar14",
+    "call_type": "onboarding",
+    "date": "2026-03-14",
+    "csm": "Chall",
+    "customer": "S.A.H NORDIC",
+    "contact": "Sharif",
+    "package": "Engage Pro",
+    "duration_minutes": 62,
+    "generated": "2026-03-17"
+  },
+  "scores": {
+    "platform_setup_configuration": { "score": 23, "max": 30 },
+    "product_knowledge_transfer":   { "score": 20, "max": 25 },
+    "customer_goals_expectation_alignment": { "score": 14, "max": 20 },
+    "next_steps_accountability":    { "score": 11, "max": 15 },
+    "relationship_rapport":         { "score":  5, "max": 10 },
+    "total":                        { "score": 73, "max": 100 }
+  },
+  "health": "yellow",
+  "revised": true,
+  "revision_reason": "Post-call message from Sharif reviewed; AI feature N/A confirmed for Engage Pro; training video + 3 articles sent",
+  "key_findings": [
+    "Strong onboarding execution — platform setup complete",
+    "AI features confirmed N/A on Engage Pro package",
+    "Training video and 3 help articles sent post-call",
+    "Goals and success metrics not fully captured",
+    "Rapport section low — limited personal engagement"
+  ],
+  "open_items": [
+    "Follow-up call to review first campaign performance",
+    "Confirm Sharif has accessed training materials"
+  ]
+}

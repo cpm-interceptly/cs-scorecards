@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "scorecard_id": "tyson_success_call_mar17",
+    "call_type": "cs_success_call",
+    "date": "2026-03-17",
+    "csm": "Chall",
+    "customer": "Tyson Schroeder",
+    "contact": "Tyson Schroeder",
+    "package": "Engage AI",
+    "recurring_meetings": false,
+    "duration_minutes": 64,
+    "generated": "2026-03-17"
+  },
+  "scores": {
+    "platform_expertise_feature_guidance": { "score": 19, "max": 25 },
+    "issue_identification_resolution":      { "score": 15, "max": 20 },
+    "action_items_accountability":          { "score": 18, "max": 20 },
+    "customer_health_expansion_signals":    { "score": 19, "max": 20 },
+    "rapport_engagement_quality":           { "score": 10, "max": 15 },
+    "total":                                { "score": 81, "max": 100 }
+  },
+  "health": "green",
+  "revised": true,
+  "revision_reason": "Post-call message from Chall reviewed — comprehensive follow-up sent covering all 5 topics with 3 explicit action items",
+  "key_findings": [
+    "AI messaging producing strong results — genuine product champion",
+    "SMS feature unavailable (update in progress) — disclosed post-call",
+    "Virtual number pricing and credit model explained in follow-up",
+    "Pipeline contact card bug escalated to product/tech team",
+    "No recurring meetings in package — post-call message is sole continuity mechanism",
+    "SMS/dialer expansion signal warm — pricing sent proactively"
+  ],
+  "open_items": [
+    "SMS compliance and automation — pending SMS feature return",
+    "Voicemail drop + make-a-call combined — not yet confirmed",
+    "Pipeline bug fix timeline — investigation underway",
+    "SMS/dialer activation — follow up within 3 days"
+  ],
+  "expansion_signals": [
+    { "feature": "SMS", "status": "unavailable — pending feature return" },
+    { "feature": "Dialer / virtual number", "status": "pricing sent, awaiting customer confirmation" }
+  ]
+}

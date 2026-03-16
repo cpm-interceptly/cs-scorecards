@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "scorecard_id": "serve_first_training_mar10",
+    "call_type": "sdr_training",
+    "date": "2026-03-10",
+    "csm": "Alison",
+    "customer": "Serve First",
+    "contact": "Tim",
+    "package": "Pipeline Builder",
+    "seats": 5,
+    "duration_minutes": 39,
+    "generated": "2026-03-17"
+  },
+  "scores": {
+    "pre_call_preparation":              { "score":  8, "max": 20 },
+    "platform_demo_knowledge_transfer":  { "score": 16, "max": 25 },
+    "stakeholder_management":            { "score": 10, "max": 20 },
+    "product_positioning":               { "score": 10, "max": 15 },
+    "next_steps_accountability":         { "score": 16, "max": 20 },
+    "total":                             { "score": 60, "max": 100 }
+  },
+  "health": "yellow",
+  "revised": true,
+  "revision_reason": "Post-call email from Alison reviewed; Chall assisted Johnny and Conrad with login/password reset post-call",
+  "attendees": [
+    { "name": "Tim",    "role": "Primary contact" },
+    { "name": "Oliver", "role": "SDR" },
+    { "name": "Paul",   "role": "New Marketing Director — never seen platform" },
+    { "name": "Connor", "role": "SDR" },
+    { "name": "Johnny", "role": "SDR — login issue resolved by Chall post-call" },
+    { "name": "Katie",  "role": "SDR — not addressed during call" },
+    { "name": "Alex",   "role": "SDR — not addressed during call" }
+  ],
+  "key_findings": [
+    "Paul (new MD) never introduced or addressed during call",
+    "Katie and Alex not mentioned despite being call objective",
+    "Johnny and Conrad login access resolved by Chall post-call",
+    "Pre-call prep gap — no research on new stakeholders",
+    "Follow-up email sent by Alison but omitted Paul entirely"
+  ],
+  "open_items": [
+    "Individual session for Paul (new MD) still not scheduled",
+    "Individual AE sessions for Katie and Alex not followed up",
+    "Confirm all 5 seats are fully onboarded"
+  ]
+}
